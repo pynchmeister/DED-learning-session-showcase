@@ -1,8 +1,3 @@
----
-
-## 3️⃣ `src/LearningSession.sol` (Safe, Minimal Showcase Contract)
-
-```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
