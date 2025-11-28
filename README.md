@@ -75,3 +75,35 @@ Key features:
 ```bash
 curl -L https://foundry.paradigm.xyz | bash
 foundryup
+```
+
+## 🔍 Design Notes
+	•	This contract is intentionally minimal:
+	•	No roles, no economics, no complex arbitration.
+	•	No assumptions about frontend, storage layer, or identity system.
+	•	The pattern is versatile and can be adapted to:
+	•	Peer review systems
+	•	Reputation-based knowledge networks
+	•	Educational DAOs
+	•	Content validation mechanisms
+  
+ ## ⚠️ Disclaimer
+	•	This code is not audited.
+	•	It is for educational & demonstration purposes only.
+	•	Do not use as-is in production.
+
+⸻
+
+## 🚀 Want to explore or extend?
+
+Feel free to:
+	•	Fork the repo
+	•	Add your own storage layer (IPFS, Filecoin, Web3.Storage, etc.)
+	•	Integrate with a frontend (React, Next.js, etc.)
+	•	Extend the reputation system with:
+	•	roles
+	•	staking
+	•	slashing
+	•	or more advanced arbitration logic (off-chain or on-chain)
+
+If you build something cool on top, consider opening an issue or PR!
